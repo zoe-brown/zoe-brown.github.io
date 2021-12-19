@@ -1,0 +1,44 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+* {
+	font-family: 'Cairo', sans-serif;
+
+}
+
+body {
+	background-color: white;
+	color: rgba(2, 44, 130, 1);
+}
+
+
+a {
+	color: rgba(0, 96, 128, .75);
+	text-decoration: underline;
+}
+
+a:hover {
+	color: rgba(0, 135, 227, .60);
+}
+
+a:active {
+	color: rgba(0, 135, 227, 1);
+}
+
+a:visited {
+	color: rgba(0, 96, 128, .75);
+}
+
+.container {
+	padding: 20%;
+}
+
+.social {
+	padding-right: 5%;
+}
+
+
